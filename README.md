@@ -14,7 +14,7 @@ Protected - qtdestoque: int;</p>
 <h3>----------------------------------</h3>
 <p>Public - produto( descricao, valor, qtdestoque );<br>
 public - imprimir();</p>
-        <p>↑
+        <p>↑<br>
         ↑<br>
         ↑<br>
         ↑</p>
