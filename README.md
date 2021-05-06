@@ -8,9 +8,9 @@ Objetivo:
 implementar 2 classes (produto, software), diagrama a seguir:
 
 <h2>Produto</h2>
-Protected - descricao: string;
-Protected - valor: double;
-Protected - qtdestoque: int;
+<p>Protected - descricao: string;<br>
+Protected - valor: double;<br>
+Protected - qtdestoque: int;</p>
 <h3>----------------------------------</h3>
 Public - produto( descricao, valor, qtdestoque );
 public - imprimir();
